@@ -1,0 +1,9 @@
+Name,Age,Gender,JobRole,Experience,WorkHoursPerWeek,RemoteRatio,SatisfactionLevel,StressLevel,Burnout
+hisham,18,Female,Sales,15,76,9,0.5,9,1
+,18,Male,Engineer,0,4,100,0.0,0,0
+سلمان,28,Male,Engineer,3,60,0,4.0,7,0
+سلمان,28,Male,Engineer,3,72,0,4.0,8,0
+سلمان,28,Male,Engineer,3,72,0,3.0,8,0
+سلمان,28,Male,Engineer,3,72,0,3.0,8,0
+سلمان,28,Male,Engineer,3,72,0,1.6,8,1
+سلمان,28,Male,Engineer,3,72,0,1.6,3,0
